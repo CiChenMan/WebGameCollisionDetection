@@ -1,0 +1,3 @@
+# WebGameCollisionDetection
+网页游戏碰撞检测，你可以使用该JS进行对网页容器注册碰撞监听与碰撞回调等事件！
+
